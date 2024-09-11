@@ -1,4 +1,4 @@
-#import "../sty.typ": *
+#import "/sty.typ": *
 
 #show: template.with(
   title: [SAT (WIP)],
